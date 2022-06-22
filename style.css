@@ -760,7 +760,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color:black;
     padding: 40px 40px 40px 40px;
 }
 
@@ -782,7 +782,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
+    opacity: 0.9;
 }
 
 .btn-atomic-tangerine {
@@ -818,11 +819,10 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
+
 }
 
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}
+
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.jpg");
