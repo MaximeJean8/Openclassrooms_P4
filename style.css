@@ -9,9 +9,7 @@ body {
 } 
 
 
-.col-sm-6 img{
-    width:100%;
-}
+
 
 
 
@@ -803,6 +801,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width:100%;
    
 }
 
