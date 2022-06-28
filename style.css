@@ -6,10 +6,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-} 
-
-
-
+}
 
 
 
@@ -37,9 +34,10 @@ body {
 
 
 }
-.mg-md{
-   
-    font-size:15px;
+
+.mg-md {
+
+    font-size: 15px;
 }
 
 
@@ -451,6 +449,10 @@ a:hover {
     }
 }
 
+.portfolio-thumb {
+    width: 100%;
+}
+
 .nav>li>.dropdown a {
     background: none !important;
     display: block;
@@ -624,7 +626,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
-   
+
 }
 
 .lightbox-caption {
@@ -802,7 +804,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
 
-   
+
 }
 
 
@@ -899,7 +901,7 @@ h4 {
         padding-left: 20px;
         padding-right: 20px;
     }
-  
+
 
 
     .bloc.full-width-bloc,
